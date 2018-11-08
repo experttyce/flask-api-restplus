@@ -5,5 +5,5 @@
 ```
 virtualenv venv --python=python3
 source venv/bin/activate
-./manage.py server
+./manage.py runserver
 ```

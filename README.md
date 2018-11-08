@@ -1,4 +1,4 @@
-## Flask API REST && Swagger
+## Flask API REST & Swagger
 
 ### Installation
 

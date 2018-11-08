@@ -1,0 +1,10 @@
+{
+  "generator-flask-api": {
+    "appName": "flask_api_restplus",
+    "database": "postgresql",
+    "databaseMapper": "sqlalchemy",
+    "versioningScheme": "minor",
+    "currentVersion": "v1.0",
+    "urlPrefix": ""
+  }
+}
